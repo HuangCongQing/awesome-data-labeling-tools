@@ -1,6 +1,10 @@
 # data-labeling-tools
 图像images/点云point clouds标注工具汇总
 
+
+@[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
+
+
 ## 图像标注开源工具
 1. labelme
 
@@ -34,3 +38,12 @@ todo
 
 3.playment
 链接: https://playment.io/
+
+
+
+## License
+
+Copyright (c) [双愚](https://github.com/HuangCongQing/data-labeling-tools). All rights reserved.
+
+Licensed under the [MIT](./LICENSE) License.
+
