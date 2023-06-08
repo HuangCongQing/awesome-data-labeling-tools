@@ -36,9 +36,11 @@
 
 
 安装：https://blog.csdn.net/r1141207831/article/details/103881962
-  运行系统：Ubuntu16.04
-  运行环境：ROS Kinetic
-  依赖库：pcl 1.8, vtk 8.1, Qt5
+* 运行系统：Ubuntu16.04
+* 运行环境：ROS Kinetic
+* 依赖库：pcl 1.8, vtk 8.1, Qt5
+
+Docs: https://www.yuque.com/huangzhongqing/hre6tf/qaauez?singleDoc# 《【det】point_cloud_annotation_tool》
 
 
 #### 7. ch-sa/labelCloud 点云目标检测标注
