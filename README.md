@@ -6,7 +6,7 @@
 
 
 ## 图像标注开源工具
-1. labelme
+1. labelme(常用)
 
 对图像进行多边形，矩形，圆形，多段线，线段，点形式的标注（可用于目标检测，图像分割，等任务）。
 对图像进行进行 flag 形式的标注（可用于图像分类 和 清理 任务）。
@@ -23,7 +23,7 @@
 ## 点云标注开源工具
 
 
-#### 1.PCAT 只显示点云,可以标注目标以及道路边界点,生成.txt文件.
+#### 1.PCAT 只显示点云,可以标注目标以及道路边界点,生成.txt文件.(常用)
 * 链接:https://github.com/halostorm/PCAT_open_source
 
 #### 2.supeivise 在线标注,只能标注目标,很准确,生成.json文件
@@ -39,7 +39,7 @@
 #### 5.semantic-segmentation-editor 点云语义分割标注工具
 * 链接: https://github.com/MR-520DAI/semantic-segmentation-editor
 
-#### 6.Point-Cloud-Annotation-Tool
+#### 6.Point-Cloud-Annotation-Tool(常用)
 
 用于在点云中注释3D框的工具。支持KITTI-bin格式的点云。注释格式与Applo 3D格式相同。数据示例可在[此处](http://data.apollo.auto/help?name=data_intro_3d&data_key=lidar_obstacle_label&data_type=0&locale=en-us&lang=en)找到。
 
