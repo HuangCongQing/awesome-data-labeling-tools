@@ -8,6 +8,17 @@
 ## 图像标注开源工具
 1. labelme
 
+对图像进行多边形，矩形，圆形，多段线，线段，点形式的标注（可用于目标检测，图像分割，等任务）。
+对图像进行进行 flag 形式的标注（可用于图像分类 和 清理 任务）。
+视频标注
+生成 VOC 格式的数据集（for semantic / instance segmentation）
+生成 COCO 格式的数据集（for instance segmentation）
+
+2. LabelImg
+
+教程：
+● https://zhuanlan.zhihu.com/p/550021453
+● https://blog.csdn.net/knighthood2001/article/details/125883343
 
 ## 点云标注开源工具
 
