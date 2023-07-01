@@ -57,6 +57,15 @@ Docs: https://www.yuque.com/huangzhongqing/hre6tf/qaauez?singleDoc# 《【det】
 #### 7. ch-sa/labelCloud 点云目标检测标注
 标注工具：https://github.com/ch-sa/labelCloud
 
+#### 8. xtreme1
+
+https://github.com/xtreme1-io/xtreme1
+
+Xtreme1 unlocks deep insights into data annotation, curation and ontology management for tackling machine learning challenges in computer vision and LLM. The platform's AI-fueled tools elevate your annotation game to the next level of efficiency, powering your projects in 2D/3D Object Detection, 3D Instance Segmentation and LiDAR-Camera Fusion like never before.
+
+
+![image](https://github.com/HuangCongQing/awesome-data-labeling-tools/assets/84139543/88603dc5-7f49-4eae-9008-c16adea146df)
+
 
 #### 8. CloudCompare
 
