@@ -4,6 +4,9 @@
 
 @[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
 
+![yuque_diagram (1)](https://github.com/HuangCongQing/awesome-data-labeling-tools/assets/20675770/22a86a93-1d7a-43ab-bc0f-6e1b2b3a5853)
+
+
 
 ## 图像标注开源工具
 1. labelme(常用)
