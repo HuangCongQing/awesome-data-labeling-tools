@@ -29,8 +29,8 @@
 2. LabelImg
 
 教程：
-● https://zhuanlan.zhihu.com/p/550021453
-● https://blog.csdn.net/knighthood2001/article/details/125883343
+* https://zhuanlan.zhihu.com/p/550021453
+* https://blog.csdn.net/knighthood2001/article/details/125883343
 
 ## 点云标注开源工具
 
